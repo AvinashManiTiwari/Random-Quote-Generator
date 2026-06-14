@@ -65,8 +65,8 @@ Through this project, I practiced:
 
 **Avinash Mani Tripathi**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/AvinashManiTiwari
+- LinkedIn: https://www.linkedin.com/in/avinash-mani-tripathi-502748303
 
 ## ⭐ Support
 
