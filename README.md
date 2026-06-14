@@ -3,11 +3,12 @@
 A simple and interactive Random Quote Generator built using **HTML, CSS, and JavaScript**. This project displays inspirational and motivational quotes with a single click, providing users with fresh thoughts and positive vibes every time.
 
 ## 🚀 Live Demo
-🔗 https://your-live-demo-link.com
+🔗 https://avinashmanitiwari.github.io/Random-Quote-Generator/
 
 ## 📸 Preview
 
-![Project Screenshot](screenshot.png)
+<img width="1437" height="657" alt="Screenshot 2026-06-14 144228" src="https://github.com/user-attachments/assets/b5cfd9f8-571f-4a24-8cd1-a37e529fad02" />
+
 
 ## 🌟 Features
 
